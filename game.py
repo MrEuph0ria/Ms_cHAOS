@@ -1,6 +1,7 @@
 #DEUS É BOM O TEMPO TODO E O TEMPO TODO DEUS É BOM
 #CORUJINHA IS THE BEST
 #MR_EUPHORIA
+#BETA
 import pygame,sys
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
