@@ -2,6 +2,7 @@
 #CORUJINHA IS THE BEST
 #MR_EUPHORIA
 #BETA
+#é um chatbot, ainda precisa ser treinado
 import pygame,sys
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
@@ -26,7 +27,7 @@ trainer.train({
     "olá", "eu vou bem obrigado",
     "eae","bacana"})
 trainer.train({
-    "quem é você?", "me chamo Abigail"
+    "quem é você?", "meu nome não importa"
     })
 
 def MENU():
